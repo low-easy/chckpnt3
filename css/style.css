@@ -1,0 +1,47 @@
+.navbar-yellow {
+  background-color: #FFCC00;
+}
+
+.navbar-yellow a {
+  color: white;
+  font-weight: bold;
+}
+
+.navbar {
+  height: 15vh;
+}
+
+.banner {
+  height: 85vh;
+}
+
+.navbar-logo {
+  width: auto;
+  height: 12vh;
+}
+
+.header-site {
+  background-image: url(/img/02.jpg);
+  background-position: center-top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: #ffff;
+  padding-top: 360px;
+  padding-bottom: 300px;
+}
+
+.btn {
+  color: white;
+}
+
+.comidinhas {
+  font-weight: 800;
+  color: #004d17;
+}
+
+.lead {
+  color: hsl(0, 0%, 100%);
+  font-weight: bold;
+}
+
